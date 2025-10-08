@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+PmZ5hI+HDcxwgxAl2y0QDeKXrk+kuoRJvPA5xbFb7YSva63UwFFFppgjM/KSeWGSqtgNUFY4aw8xXxuFqzDzA==",
+  "dgSpecHash": "bfl6v/xu9DmtqZiIoPRhE719LEdfJKHlG6HgbnwZJ8oiMntqzmtbejm5Kvl3U7WjU6WO9RltOkfB4rNYzCzOGA==",
   "success": true,
-  "projectFilePath": "C:\\hoangnha\\nhom8backend\\nhom8backend\\nhom8\\nhom8.csproj",
+  "projectFilePath": "C:\\hoangnha\\nhom8backend\\nhom8\\nhom8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

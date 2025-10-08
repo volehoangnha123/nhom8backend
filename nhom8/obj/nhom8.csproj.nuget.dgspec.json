@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hoangnha\\nhom8backend\\nhom8backend\\nhom8\\nhom8.csproj": {}
+    "C:\\hoangnha\\nhom8backend\\nhom8\\nhom8.csproj": {}
   },
   "projects": {
-    "C:\\hoangnha\\nhom8backend\\nhom8backend\\nhom8\\nhom8.csproj": {
+    "C:\\hoangnha\\nhom8backend\\nhom8\\nhom8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hoangnha\\nhom8backend\\nhom8backend\\nhom8\\nhom8.csproj",
+        "projectUniqueName": "C:\\hoangnha\\nhom8backend\\nhom8\\nhom8.csproj",
         "projectName": "nhom8",
-        "projectPath": "C:\\hoangnha\\nhom8backend\\nhom8backend\\nhom8\\nhom8.csproj",
+        "projectPath": "C:\\hoangnha\\nhom8backend\\nhom8\\nhom8.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\hoangnha\\nhom8backend\\nhom8backend\\nhom8\\obj\\",
+        "outputPath": "C:\\hoangnha\\nhom8backend\\nhom8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
